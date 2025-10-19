@@ -1,0 +1,56 @@
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+ENV/
+*.sqlite3
+*.db
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Logs / Caches ---
+*.log
+*.out
+*.bak
+*.tmp
+*.swp
+*.swo
+.cache/
+__pycache__/
+profile_default/
+ipython_config.py
+
+# --- Data files ---
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.parquet
+*.json
+
+# --- Reports / Outputs ---
+outputs/
+plots/
+reports/
+*.pdf
+*.png
+*.svg
